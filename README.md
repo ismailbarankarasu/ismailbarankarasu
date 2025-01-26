@@ -1,6 +1,6 @@
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=DifferenTismail&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=ismailbarankarasu&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 # Hi, I'm İsmail Baran! 👋  
 
@@ -36,9 +36,9 @@ Explore my projects and contributions here on GitHub. Let's connect and collabor
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DifferenTismail&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DifferenTismail&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DifferenTismail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ismailbarankarasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ismailbarankarasu&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbarankarasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
