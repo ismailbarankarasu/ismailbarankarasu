@@ -1,6 +1,6 @@
 <div align="center">
   
-[![](https://komarev.com/ghpvc/?username=ismailbarankarasu&color=blue)
+![](https://komarev.com/ghpvc/?username=ismailbarankarasu&color=blue)
 
 # Hi, I'm İsmail Baran! 👋  
 
