@@ -27,28 +27,37 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Web Technologies**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Databases**  
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2300479C.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Practices**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-%232E6EF6.svg?style=for-the-badge&logo=jwt&logoColor=white)  
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%2300599C.svg?style=for-the-badge&logoColor=white)
+<div align="left">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px; text-align: center;">
+      <strong>Languages & Frameworks</strong><br>
+      ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+      ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+      ![ASP.NET Core](https://img.shields.io/badge/asp.net%20core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <strong>Web Technologies</strong><br>
+      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+      ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <strong>Databases</strong><br>
+      ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+      ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+      ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300479C.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+      ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+    </div>
+    <div style="margin: 10px; text-align: center;">
+      <strong>Tools & Practices</strong><br>
+      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+      ![TFS](https://img.shields.io/badge/TFS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)  
+      ![JWT](https://img.shields.io/badge/JWT-%232E6EF6.svg?style=for-the-badge&logo=jwt&logoColor=white)  
+      ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%2300599C.svg?style=for-the-badge&logoColor=white)  
+    </div>
+  </div>
+</div>
 
 ---
 
