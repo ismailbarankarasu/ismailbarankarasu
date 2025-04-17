@@ -13,7 +13,7 @@
 💻 **Currently Learning:** JavaScript • C# • ASP.NET Core • German  
 🎓 **Goal:** To build high-performance, scalable applications and become a leading figure in the tech industry
 
----
+
 
 ### 📬 Let's Connect!
 📧 Email: [ismailbaran04@gmail.com](mailto:ismailbaran04@gmail.com)
